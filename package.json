@@ -1,0 +1,24 @@
+{
+  "name": "insider-demo-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.22",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/test-utils": "^2.4.6",
+    "jsdom": "^27.1.0",
+    "sass": "^1.93.3",
+    "sass-embedded": "^1.93.3",
+    "vite": "^7.1.7",
+    "vitest": "^4.0.7"
+  }
+}
